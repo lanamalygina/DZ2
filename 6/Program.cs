@@ -1,4 +1,4 @@
-﻿Console.WriteLine($"\nЗадача 29. Ряд чисел преобразует в массив");
+﻿Console.WriteLine($"\nРяд чисел преобразует в массив");
 Console.Write("Введите ряд чисел, разделенных запятой : ");
 string? seriesOfNumbers = Console.ReadLine();
 
